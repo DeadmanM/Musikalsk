@@ -1,0 +1,5 @@
+= Musikalsk
+
+Generate this with
+    Musikalsk rdoc
+After you have described your command line interface
